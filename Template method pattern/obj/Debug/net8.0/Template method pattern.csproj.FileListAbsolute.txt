@@ -1,0 +1,14 @@
+G:\Программные модули\Template method pattern\bin\Debug\net8.0\Template method pattern.exe
+G:\Программные модули\Template method pattern\bin\Debug\net8.0\Template method pattern.deps.json
+G:\Программные модули\Template method pattern\bin\Debug\net8.0\Template method pattern.runtimeconfig.json
+G:\Программные модули\Template method pattern\bin\Debug\net8.0\Template method pattern.dll
+G:\Программные модули\Template method pattern\bin\Debug\net8.0\Template method pattern.pdb
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.AssemblyInfoInputs.cache
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.AssemblyInfo.cs
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.csproj.CoreCompileInputs.cache
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.dll
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\refint\Template method pattern.dll
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.pdb
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\Template method pattern.genruntimeconfig.cache
+G:\Программные модули\Template method pattern\obj\Debug\net8.0\ref\Template method pattern.dll
